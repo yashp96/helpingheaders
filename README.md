@@ -1,2 +1,2 @@
 # helpingheaders
-A repo for useful headers for C/C++.
+A repo for storing headers with helper macros for C/C++
